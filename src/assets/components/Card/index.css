@@ -1,0 +1,19 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+text-align: center;
+}
+.card{
+width: 400px;
+padding: 10px;
+background-color: #666161;
+}
+img{
+width: 100%;
+
+}
+.phone_email_wrapper{
+display: flex;
+}
