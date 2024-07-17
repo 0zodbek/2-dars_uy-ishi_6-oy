@@ -6,10 +6,11 @@ font-family: sans-serif;
 text-align: center;
 }
 .card{
-width: 400px;
+width: 340px;
 padding: 10px;
 background-color: #666161;
 border-radius:8px;
+text-align: center;
 }
 img{
 width: 100%;
@@ -17,11 +18,13 @@ border-radius: 8px;
 }
 .phone_email_wrapper{
 display: flex;
-text-align-last: left;
+text-align: center;
+justify-content: center;
+/* text-align-last: left; */
 }
-.name{
+/* .name{
 text-align-last: left;
-}
-.address{
+}*/
+/* .address{
 text-align-last: left;
-}
+} */
