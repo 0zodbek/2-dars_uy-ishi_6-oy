@@ -9,11 +9,19 @@ text-align: center;
 width: 400px;
 padding: 10px;
 background-color: #666161;
+border-radius:8px;
 }
 img{
 width: 100%;
-
+border-radius: 8px;
 }
 .phone_email_wrapper{
 display: flex;
+text-align-last: left;
+}
+.name{
+text-align-last: left;
+}
+.address{
+text-align-last: left;
 }
